@@ -28,10 +28,10 @@ function App() {
             <h1>Mana digitālā pieredze mācoties Latvijas Universitātē</h1>
           </div>
         </div>
-        <article className="article type-dark">
+        <article className="article type-dark first">
           <div className="image-div">
             <img
-              src="/LUIS tdp bilde (rediģēts).png"
+              src="/LUIS tdp bilde.png"
               alt="LU LUIS tīmekļa vietne"
               className="sample-image"
             />
@@ -115,7 +115,7 @@ function App() {
             />
           </div>
         </article>
-        <article className="article type-dark">
+        <article className="article type-dark last">
           <div className="image-div">
             <img
               src="/darba tdp bilde.png"
