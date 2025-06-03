@@ -31,8 +31,8 @@ function App() {
         <article className="article type-dark">
           <div className="image-div">
             <img
-              src="/sample-image.jpg"
-              alt="Sample"
+              src="/LUIS tdp bilde (rediģēts).png"
+              alt="LU LUIS tīmekļa vietne"
               className="sample-image"
             />
           </div>
@@ -65,8 +65,8 @@ function App() {
           </div>
           <div className="image-div">
             <img
-              src="/sample-image.jpg"
-              alt="Sample"
+              src="/MS Teams tdp bilde.png"
+              alt="Microsoft Teams lietotne"
               className="sample-image"
             />
           </div>
@@ -74,8 +74,8 @@ function App() {
         <article className="article type-dark">
           <div className="image-div">
             <img
-              src="/sample-image.jpg"
-              alt="Sample"
+              src="/codeblocks tdp bilde.png"
+              alt="Code Blocks lietotne"
               className="sample-image"
             />
           </div>
@@ -98,19 +98,19 @@ function App() {
             <p>
               Mana digitālā pieredze prakses vietā bija interesanta, jo man bija
               jādarbojās ar tehnoloģijām ar ko es iepriekš nebiju darbojies, bet
-              tas bija ļoti noderīgi. Grūtākais bija lietot pašas prakses vietas
-              iekšējās pārvaldības mājāslapas, jo darbiniekiem interesējošo
-              informāciju vajag meklēt pa vairākām mājaslapām un katra mājaslapa
-              ir ļoti plaša un lietotājam grūti lietojama. Sarunās ar kolēģiem
-              es noskaidroju, ka pat darbiniekiem, kas lieto tās vairākus gadus,
-              ir tādas pašas problēmas, tāpēc nevajag baidīties ja jūties
-              apmaldījies.
+              tas bija ļoti noderīgi, jo man bija iespējā veidot mājaslapas.
+              Grūtākais bija lietot pašas prakses vietas iekšējās pārvaldības
+              mājāslapas, jo darbiniekiem interesējošo informāciju vajag meklēt
+              pa vairākām mājaslapām un katra mājaslapa ir ļoti plaša un
+              lietotājam grūti lietojama. Sarunās ar kolēģiem es noskaidroju, ka
+              pat darbiniekiem, kas lieto tās vairākus gadus, ir tādas pašas
+              problēmas, tāpēc nevajag baidīties ja jūties apmaldījies.
             </p>
           </div>
           <div className="image-div">
             <img
-              src="/sample-image.jpg"
-              alt="Sample"
+              src="/prakses tdp bilde.png"
+              alt="Prakses vietā izveidota mājaslapa"
               className="sample-image"
             />
           </div>
@@ -118,8 +118,8 @@ function App() {
         <article className="article type-dark">
           <div className="image-div">
             <img
-              src="/sample-image.jpg"
-              alt="Sample"
+              src="/darba tdp bilde.png"
+              alt="Kvalifikācija darbā izveidotā mājaslapa"
               className="sample-image"
             />
           </div>
@@ -137,7 +137,17 @@ function App() {
             </p>
           </div>
         </article>
-        <footer className="footer"></footer>
+        <footer className="footer">
+          <div className="footer-content">
+            <p className="footer-title">
+              Nosaukums:
+              <span>
+                "Mana digitālā pieredze mācoties Latvijas Universitātē"
+              </span>
+            </p>
+            <p className="footer-author">Autors: Ritvars Mačs</p>
+          </div>
+        </footer>
       </main>
     </div>
   );
