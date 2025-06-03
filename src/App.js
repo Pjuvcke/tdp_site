@@ -23,7 +23,11 @@ function App() {
       </header>
       <main className="content">
         <div className="hero">
-          <img src="/sample-image.jpg" alt="Hero" className="hero-image" />
+          <img
+            src={process.env.PUBLIC_URL + "/sample-image.jpg"}
+            alt="Hero"
+            className="hero-image"
+          />
           <div className="hero-text">
             <h1>Mana digitālā pieredze mācoties Latvijas Universitātē</h1>
           </div>
@@ -31,7 +35,7 @@ function App() {
         <article className="article type-dark first">
           <div className="image-div">
             <img
-              src="/LUIS tdp bilde.png"
+              src={process.env.PUBLIC_URL + "/luis-tdp-bilde.png"}
               alt="LU LUIS tīmekļa vietne"
               className="sample-image"
             />
@@ -65,7 +69,7 @@ function App() {
           </div>
           <div className="image-div">
             <img
-              src="/MS Teams tdp bilde.png"
+              src={process.env.PUBLIC_URL + "/ms-teams-tdp-bilde.png"}
               alt="Microsoft Teams lietotne"
               className="sample-image"
             />
@@ -74,7 +78,7 @@ function App() {
         <article className="article type-dark">
           <div className="image-div">
             <img
-              src="/codeblocks tdp bilde.png"
+              src={process.env.PUBLIC_URL + "/codeblocks-tdp-bilde.png"}
               alt="Code Blocks lietotne"
               className="sample-image"
             />
@@ -109,7 +113,7 @@ function App() {
           </div>
           <div className="image-div">
             <img
-              src="/prakses tdp bilde.png"
+              src={process.env.PUBLIC_URL + "/prakses-tdp-bilde.png"}
               alt="Prakses vietā izveidota mājaslapa"
               className="sample-image"
             />
@@ -118,7 +122,7 @@ function App() {
         <article className="article type-dark last">
           <div className="image-div">
             <img
-              src="/darba tdp bilde.png"
+              src={process.env.PUBLIC_URL + "/darba-tdp-bilde.png"}
               alt="Kvalifikācija darbā izveidotā mājaslapa"
               className="sample-image"
             />
