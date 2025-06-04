@@ -45,7 +45,7 @@ function App() {
             <p>
               Pirmo reizi apmeklējot LU LUIS tīmekļa vietni, es nedaudz samulsu,
               jo es redzēju daudz dažādu opciju, ko apskatīt, bet nezināju kā
-              tikt pie informācijas, kas man ir svarīgā. Jauniem lietotājiem
+              tikt pie informācijas, kas man ir svarīga. Jauniem lietotājiem
               notiekt ir nepieciešams iziet cauri visam, ko šī tīmekļa vietne
               piedāvā, lai nerastos sajūta, ka tu esi apmaldījies. Es arī
               gaidīju modernāku dizainu no šīs mājaslapas, jo ir sajūta, ka tā
@@ -57,13 +57,13 @@ function App() {
           <div className="text-div">
             <h2>Lekcijas platformā Microsoft Teams</h2>
             <p>
-              Microsoft Teams bija patīka pārmaiņa salīdzinājumā ar vidusskolā
+              Microsoft Teams bija patīkama pārmaiņa salīdzinājumā ar vidusskolā
               lietoto Google Meet, jo, manuprāt, Microsoft Teams dizains ir
               labāks un draudzīgāks lietotājam. Pati funkcionalitāte gan ne
               vienmēr ir draudzīga pret lietotāju, jo vairākas reizes ir
-              gadījies tā, ka pirms pievienošanās zvanām tiek atzīmēts, ka
+              gadījies tā, ka pirms pievienošanās zvanam tiek atzīmēts, ka
               mikrafonam vajadzētu būt izslēgtam, bet pievienojoties tas
-              pārdomā. Pirms pievienošanās zvanam vajadzētu pārtraukt sarunās,
+              pārdomā. Pirms pievienošanās zvanam vajadzētu pārtraukt sarunas,
               savādāk nāksies dalīties tajās ar visiem pārējiem.
             </p>
           </div>

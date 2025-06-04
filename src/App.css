@@ -163,6 +163,7 @@ body {
 .image-div img {
   width: 100%; /* Take full width of container */
   height: auto;
+  max-width: 1200px;
 }
 .last {
   margin-bottom: 50px;
