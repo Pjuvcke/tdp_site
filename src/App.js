@@ -24,7 +24,7 @@ function App() {
       <main className="content">
         <div className="hero">
           <img
-            src={process.env.PUBLIC_URL + "/hero.jpg"}
+            src={process.env.PUBLIC_URL + "/hero-new.jpg"}
             alt="LU ēka"
             className="hero-image"
           />
