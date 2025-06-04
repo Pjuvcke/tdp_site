@@ -105,7 +105,7 @@ body {
 .dark .hero-text {
   background-color: rgba(0, 42, 94, 0.8);
 }
-@media (max-width: 600px) {
+@media (max-width: 700px) {
   .hero-text {
     padding: 0 40px;
   }
